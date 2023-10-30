@@ -45,7 +45,6 @@ The buried point function will insert the inside of the click event based on the
 ## Examples
 
 This is a page that needs to be buried.
-<img src="https://github.com/lbczblll/auto-track-webpack-plugin/screenshots/build_before.jpg" />
+<img src="https://github.com/lbczblll/auto-track-webpack-plugin/blob/main/screenshots/build_before.jpg" />
 And use the plugin.
-
-<img src="https://github.com/lbczblll/auto-track-webpack-plugin/screenshots/build_example.jpg" />
+<img src="https://github.com/lbczblll/auto-track-webpack-plugin/blob/main/screenshots/build_example.jpg" />
